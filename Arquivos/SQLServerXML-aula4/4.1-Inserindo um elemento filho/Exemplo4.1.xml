@@ -1,0 +1,26 @@
+<Root>
+  <ProductDescription ProductID ="1" ProductName ="Road Bike">
+    <Features>
+    </Features>    
+  </ProductDescription>
+</Root>
+
+<Root>
+  <ProductDescription ProductID="1" ProductName="Road Bike">
+    <Features>
+      <Maintenance>
+        3 anos de manutenção serão estendidas ao produto
+      </Maintenance>
+    </Features>    
+  </ProductDescription>
+</Root>
+
+<Root>
+  <ProductDescription ProductID="1" ProductName="Road Bike">
+    <Features>
+      <Maintenance> 3 anos de manutenção serão estendidas ao produto </Maintenance>
+    </Features>    
+  </ProductDescription>
+</Root>
+
+
